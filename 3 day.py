@@ -32,3 +32,8 @@ print(s,type(s))
 '''tuple are immutable(data is unchangeable)'''
 t=(1,2,3,4,5,["apple",7,9],78)
 print(t,type(t))
+
+#dictionary is a mapped data
+'''dictonaries are mutable'''
+d={"a":2,"b":3}
+print(d,type(d))
