@@ -1,5 +1,7 @@
 '''Match Case Statement'''
 
+# case statement will run from begining until it gets match,in python statement which are not matched will not run
+#if x matches the case statement it will not run further
 x=4
 
 match x:
